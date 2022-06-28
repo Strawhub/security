@@ -4,7 +4,7 @@ import random
 import csv
 
 # クイズの情報を格納したファイル
-CSV_FILE = ("quiz.csv")
+CSV_FILE = ("#ここにCSVファイルを記入")
 
 
 class Quiz():
